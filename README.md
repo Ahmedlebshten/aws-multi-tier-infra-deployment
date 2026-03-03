@@ -1,4 +1,4 @@
-#🚀 AWS Multi-Tier Infrastructure Deployment
+# 🚀 AWS Multi-Tier Infrastructure Deployment
 
 This project demonstrates the deployment of a complete multi-tier AWS infrastructure across multiple Availability Zones following best practices for scalability, security, and high availability.
 
