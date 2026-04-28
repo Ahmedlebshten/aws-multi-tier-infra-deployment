@@ -2,6 +2,8 @@
 
 This project demonstrates the deployment of a complete multi-tier AWS infrastructure across multiple Availability Zones following best practices for scalability, security, and high availability.
 
+## 🖼️ System Architecture
+<img width="1408" height="768" alt="infra" src="https://github.com/user-attachments/assets/d1d4f6c0-1c1e-435a-b94b-5c208e5e9676" />
 ____
 
 ## 📌 Architecture Overview
